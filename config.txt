@@ -1,0 +1,6 @@
+owner=591463026323095594
+prefix=-
+game=Streaming | -help
+stayinchannel=true
+songinstatus=false
+token=NTkxNDYzMDI2MzIzMDk1NTk0.XQxI-A.Q7WZHrC6-MSLtsjG3pptOZYWRrA
